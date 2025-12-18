@@ -1,0 +1,54 @@
+DETAILED SIMILARITY REPORT FOR PPTX FILES
+==================================================
+
+Folder: Ch1
+Number of files: 9
+
+SUMMARY STATISTICS:
+--------------------
+Average similarity: 66.83%
+Max similarity: 100.00%
+Min similarity: 40.14%
+
+HIGH SIMILARITY PAIRS (>70%):
+------------------------------
+Ch1_Hung.pptx vs Ch1_NguyenThanhDat.pptx: 81.51%
+Ch1_Hung.pptx vs Ch1_Tien.pptx: 86.98%
+Ch1_Hung.pptx vs Ch1_Luan.pptx: 76.71%
+Ch1_Hung.pptx vs Ch1_TrungKien.pptx: 73.79%
+Ch1_NguyenThanhDat.pptx vs Ch1_Tien.pptx: 84.30%
+Ch1_NguyenThanhDat.pptx vs Ch1_Luan.pptx: 73.85%
+Ch1_Tien.pptx vs Ch1_Luan.pptx: 78.43%
+Ch1_QuangHuy.pptx vs Ch1_NguyenDuyThanh.pptx: 71.64%
+Ch1_QuangHuy.pptx vs Ch1_TrungKien.pptx: 76.41%
+
+POTENTIAL PLAGIARISM CONCERNS (>80%):
+-----------------------------------
+Ch1_Hung.pptx vs Ch1_NguyenThanhDat.pptx: 81.51% - HIGH RISK
+Ch1_Hung.pptx vs Ch1_Tien.pptx: 86.98% - HIGH RISK
+Ch1_NguyenThanhDat.pptx vs Ch1_Tien.pptx: 84.30% - HIGH RISK
+
+DEDUCTION POINTS (0-5) BASED ON MAX SIMILARITY:
+---------------------------------------------
+Ch1_Hung.pptx: Max similarity 86.98% -> Deduction: 4 points
+Ch1_NguyenThanhDat.pptx: Max similarity 84.30% -> Deduction: 4 points
+Ch1_Tuan.pptx: Max similarity 67.19% -> Deduction: 3 points
+Ch1_BuiHuy.pptx: Max similarity 69.96% -> Deduction: 3 points
+Ch1_Tien.pptx: Max similarity 86.98% -> Deduction: 4 points
+Ch1_Luan.pptx: Max similarity 78.43% -> Deduction: 3 points
+Ch1_QuangHuy.pptx: Max similarity 76.41% -> Deduction: 3 points
+Ch1_NguyenDuyThanh.pptx: Max similarity 71.64% -> Deduction: 3 points
+Ch1_TrungKien.pptx: Max similarity 76.41% -> Deduction: 3 points
+
+FULL SIMILARITY MATRIX (%):
+-------------------------
+                         Ch1_Hung.pptx  Ch1_NguyenThanhDat.pptx  Ch1_Tuan.pptx  Ch1_BuiHuy.pptx  Ch1_Tien.pptx  Ch1_Luan.pptx  Ch1_QuangHuy.pptx  Ch1_NguyenDuyThanh.pptx  Ch1_TrungKien.pptx
+Ch1_Hung.pptx                   100.00                    81.51          67.19            69.01          86.98          76.71              65.44                    46.98               73.79
+Ch1_NguyenThanhDat.pptx          81.51                   100.00          58.63            66.19          84.30          73.85              57.09                    40.87               63.47
+Ch1_Tuan.pptx                    67.19                    58.63         100.00            62.72          63.63          53.84              56.03                    41.80               54.40
+Ch1_BuiHuy.pptx                  69.01                    66.19          62.72           100.00          69.96          62.89              61.63                    45.55               65.82
+Ch1_Tien.pptx                    86.98                    84.30          63.63            69.96         100.00          78.43              60.12                    43.16               67.71
+Ch1_Luan.pptx                    76.71                    73.85          53.84            62.89          78.43         100.00              54.05                    40.14               60.95
+Ch1_QuangHuy.pptx                65.44                    57.09          56.03            61.63          60.12          54.05             100.00                    71.64               76.41
+Ch1_NguyenDuyThanh.pptx          46.98                    40.87          41.80            45.55          43.16          40.14              71.64                   100.00               53.65
+Ch1_TrungKien.pptx               73.79                    63.47          54.40            65.82          67.71          60.95              76.41                    53.65              100.00

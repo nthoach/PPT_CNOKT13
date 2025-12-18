@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
 # Folder containing PPTX files
-FOLDER = '.'
+FOLDER = 'Ch2'
 
 # Get all pptx files
 pptx_files = [f for f in os.listdir(FOLDER) if f.lower().endswith('.pptx')]
